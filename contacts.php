@@ -16,6 +16,8 @@
 
 <p>Связвться с нами можно по телефону: 8-975-958-65-52 <br>
     или по электронной почте showstatusyoursyte@showstats.com</p>
-
+<div class="stats">
+    <?php include 'show_stats.php';?>
+</div>
 </body>
 </html>
