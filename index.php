@@ -5,8 +5,10 @@
 <head>
     <meta charset = "utf-8" />
     <title>Статистика</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="script.js"></script>
 </head>
-<body   >
+<body>
 <ul id="nav">
     <li><a href="index.php">Главная</a></li>
     <li><a href="service.php">Услуги</a></li>

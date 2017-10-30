@@ -3,6 +3,8 @@
 <head>
     <meta charset = "utf-8" />
     <title>Наши услуги</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="script.js"></script>
 </head>
 
 <body>
