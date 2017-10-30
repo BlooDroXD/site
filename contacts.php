@@ -22,6 +22,7 @@
     <img src="kspr.png" width="15%" height="50%" id="pic2" onmouseout="swap_png2('kspr');" onmouseover="swap_gif2('Satan');" />
     <img src="vk.png" width="15%" height="50%" id="pic3" onmouseout="swap_png3('vk');" onmouseover="swap_gif3('Satan');" />
     <img src="dweb.png" width="15%" height="50%" id="pic4" onmouseout="swap_png4('dweb');" onmouseover="swap_gif4('Satan');" /> </p>
+<input style="height: 50px;width: 250px " value="Кнопка для развлечения" type="button" onclick="msgClick()">
 <div class="stats">
     <?php include 'show_stats.php';?>
 </div>
