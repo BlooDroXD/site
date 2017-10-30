@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9abe82c9-9171-4b97-850e-b63cd22d0bce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts.php" afterPath="$PROJECT_DIR$/contacts.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service.php" afterPath="$PROJECT_DIR$/service.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,9 +17,22 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="1209">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding>
+                <marker date="1509344009077" expanded="true" signature="1796:1884" ph="SELECT * FRO... visits" />
+                <marker date="1509344009077" expanded="true" signature="1983:2067" ph="SELECT * FRO... visits" />
+                <marker date="1509344009077" expanded="true" signature="2155:2208" ph="SELECT * FRO... visits" />
+                <marker date="1509344009077" expanded="true" signature="2307:2418" ph="SELECT * FRO... visits" />
+                <marker date="1509344009077" expanded="true" signature="2497:2519" ph="SELECT * FRO... visits" />
+                <marker date="1509344009077" expanded="true" signature="2576:2604" ph="SELECT ip_ad... ips" />
+                <marker date="1509344009077" expanded="true" signature="2796:2808" ph="..." />
+                <marker date="1509344009077" expanded="true" signature="2809:3185" ph="..." />
+                <marker date="1509344009077" expanded="true" signature="2830:2855" ph="..." />
+                <marker date="1509344009077" expanded="true" signature="2917:2942" ph="..." />
+                <marker date="1509344009077" expanded="true" signature="3011:3036" ph="..." />
+                <marker date="1509344009077" expanded="true" signature="3099:3124" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -273,12 +283,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509342153239</updated>
-      <workItem from="1509342155466" duration="1723000" />
+      <workItem from="1509342155466" duration="1852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1723000" />
+    <option name="totallyTimeSpent" value="1852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="0" width="1370" height="744" extended-state="0" />
@@ -392,9 +402,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="1209">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding>
+            <marker date="1509344009077" expanded="true" signature="1796:1884" ph="SELECT * FRO... visits" />
+            <marker date="1509344009077" expanded="true" signature="1983:2067" ph="SELECT * FRO... visits" />
+            <marker date="1509344009077" expanded="true" signature="2155:2208" ph="SELECT * FRO... visits" />
+            <marker date="1509344009077" expanded="true" signature="2307:2418" ph="SELECT * FRO... visits" />
+            <marker date="1509344009077" expanded="true" signature="2497:2519" ph="SELECT * FRO... visits" />
+            <marker date="1509344009077" expanded="true" signature="2576:2604" ph="SELECT ip_ad... ips" />
+            <marker date="1509344009077" expanded="true" signature="2796:2808" ph="..." />
+            <marker date="1509344009077" expanded="true" signature="2809:3185" ph="..." />
+            <marker date="1509344009077" expanded="true" signature="2830:2855" ph="..." />
+            <marker date="1509344009077" expanded="true" signature="2917:2942" ph="..." />
+            <marker date="1509344009077" expanded="true" signature="3011:3036" ph="..." />
+            <marker date="1509344009077" expanded="true" signature="3099:3124" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
