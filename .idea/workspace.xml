@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9abe82c9-9171-4b97-850e-b63cd22d0bce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/count.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/show_status.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="count.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="count.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/count.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <marker date="1509343170184" expanded="true" signature="339:391" ph="SELECT `visi... visits" />
                 <marker date="1509343170184" expanded="true" signature="582:630" ph="INSERT INTO `ips`... " />
@@ -78,6 +77,20 @@
                 <marker date="1509343170184" expanded="true" signature="1272:1330" ph="UPDATE `visi... " />
                 <marker date="1509343170184" expanded="true" signature="1517:1565" ph="INSERT INTO `ips`... " />
                 <marker date="1509343170184" expanded="true" signature="1678:1754" ph="UPDATE `visi... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show_status.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/show_status.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <marker date="1509343252053" expanded="true" signature="367:425" ph="SELECT `view... visits" />
+                <marker date="1509343252053" expanded="true" signature="479:493" ph="..." />
+                <marker date="1509343252053" expanded="true" signature="568:582" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,6 +110,7 @@
         <option value="$PROJECT_DIR$/service.php" />
         <option value="$PROJECT_DIR$/db.php" />
         <option value="$PROJECT_DIR$/count.php" />
+        <option value="$PROJECT_DIR$/show_status.php" />
       </list>
     </option>
   </component>
@@ -108,8 +122,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="87" />
+    <option name="x" value="261" />
+    <option name="y" value="139" />
     <option name="width" value="1370" />
     <option name="height" value="744" />
   </component>
@@ -226,15 +240,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509342153239</updated>
-      <workItem from="1509342155466" duration="1014000" />
+      <workItem from="1509342155466" duration="1096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1014000" />
+    <option name="totallyTimeSpent" value="1096000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="87" width="1370" height="744" extended-state="0" />
+    <frame x="261" y="139" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -309,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/count.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <marker date="1509343170184" expanded="true" signature="339:391" ph="SELECT `visi... visits" />
             <marker date="1509343170184" expanded="true" signature="582:630" ph="INSERT INTO `ips`... " />
@@ -319,6 +333,18 @@
             <marker date="1509343170184" expanded="true" signature="1272:1330" ph="UPDATE `visi... " />
             <marker date="1509343170184" expanded="true" signature="1517:1565" ph="INSERT INTO `ips`... " />
             <marker date="1509343170184" expanded="true" signature="1678:1754" ph="UPDATE `visi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/show_status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1509343252053" expanded="true" signature="367:425" ph="SELECT `view... visits" />
+            <marker date="1509343252053" expanded="true" signature="479:493" ph="..." />
+            <marker date="1509343252053" expanded="true" signature="568:582" ph="..." />
           </folding>
         </state>
       </provider>
